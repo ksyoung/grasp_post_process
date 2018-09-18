@@ -1,0 +1,7 @@
+# python files
+.py~
+.pyc
+
+# ignore output folder
+./output/
+
